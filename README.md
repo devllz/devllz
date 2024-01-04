@@ -14,7 +14,7 @@
 - 🛠️ Tools: IDA Pro, Ghidra, Cutter, Visual Community 2023
 
 🌐 **Connect with Me:**
-- 📫 Discord: [devllz(https://discord.gg/NQrQ7Bqa) >5 USES EXPIRES 01/11/2023<
+- 📫 Discord: [devllz](https://discord.gg/NQrQ7Bqa) >5 USES EXPIRES 01/11/2023<
 - 📂 GitHub: [@devllz](https://github.com/devllz)
 
 🌱 **Learning and Growing:**
