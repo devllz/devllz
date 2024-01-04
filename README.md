@@ -2,7 +2,7 @@
 ### I used chatgpt because its 2am right now give break.
 ### A passionate game hacker and reverse engineer 💻
 
-🔭 **Current Project:** Working on an innovative game injector to enhance gaming experiences.
+🔭 **Current Project:** Working on injectors and anti^cheat workarounds.
 
 🚀 **About Me:**
 - 👾 Love hacking games and exploring the depths of game mechanics.
@@ -10,11 +10,11 @@
 - 🎮 Gamer by heart, turning virtual challenges into opportunities for exploration.
 
 🛠️ **Tech Stack:**
-- 💻 Languages: C++, Python, Assembly
-- 🛠️ Tools: IDA Pro, Ghidra, OllyDbg, Cheat Engine
+- 💻 Languages: C++, C#, Lua, C, Python
+- 🛠️ Tools: IDA Pro, Ghidra, Cutter, Visual Community 2023
 
 🌐 **Connect with Me:**
-- 📫 Discord: [devllz(https://discord.gg/NQrQ7Bqa) >5 USES EXPIRES 11TH<
+- 📫 Discord: [devllz(https://discord.gg/NQrQ7Bqa) >5 USES EXPIRES 01/11/2023<
 - 📂 GitHub: [@devllz](https://github.com/devllz)
 
 🌱 **Learning and Growing:**
